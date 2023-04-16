@@ -1,0 +1,10 @@
+test*/
+base/
+*.*~
+*.psd.kra
+out*.*
+tmp*
+base.*
+.*/
+*.ipynb
+T*/
